@@ -1,0 +1,16 @@
+﻿
+
+<button type="submit" asp-controller="Users" asp-action="create">Add User</button>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    @foreach(var item in Model)
+    {
+        <tr>@item.name</tr>
+    }
+</table>

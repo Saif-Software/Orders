@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guest.admission\\Desktop\\Hamada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\views\\users\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\views\\users\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\repos\\implemntion\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\repos\\implemntion\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\controllers\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\controllers\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\repos\\irepo\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\repos\\irepo\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\controllers\\catg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\controllers\\catg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\models\\entity\\catgories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\models\\entity\\catgories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\repos\\implemntion\\catrepoim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\repos\\implemntion\\catrepoim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\repos\\implemntion\\ihabit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\repos\\implemntion\\ihabit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\repos\\irepo\\catgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\repos\\irepo\\catgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\models\\viewmodels\\habitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\models\\viewmodels\\habitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\repos\\irepo\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\repos\\irepo\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\models\\entity\\habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\models\\entity\\habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\migrations\\20241224110415_saif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\migrations\\20241224110415_saif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\models\\appcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\models\\appcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|c:\\users\\guest.admission\\desktop\\hamada\\hamada\\hamada.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83E92043-7466-4E0A-A45C-F63B59328655}|Hamada\\Hamada.csproj|solutionrelative:hamada\\hamada.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Users\\Users.cshtml",
+              "RelativeDocumentMoniker": "Hamada\\Views\\Users\\Users.cshtml",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Users\\Users.cshtml",
+              "RelativeToolTip": "Hamada\\Views\\Users\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:40:38.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hamada\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Hamada\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:31:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hamada\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Hamada\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:22:17.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Catg.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\Catg.cs",
+              "RelativeDocumentMoniker": "Hamada\\Controllers\\Catg.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\Catg.cs",
+              "RelativeToolTip": "Hamada\\Controllers\\Catg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:04:18.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\Habit.cs",
+              "RelativeDocumentMoniker": "Hamada\\Controllers\\Habit.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\Habit.cs",
+              "RelativeToolTip": "Hamada\\Controllers\\Habit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:04:01.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Hamada\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Hamada\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:03:40.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "catRepoIm.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\Implemntion\\catRepoIm.cs",
+              "RelativeDocumentMoniker": "Hamada\\Repos\\Implemntion\\catRepoIm.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\Implemntion\\catRepoIm.cs",
+              "RelativeToolTip": "Hamada\\Repos\\Implemntion\\catRepoIm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:57:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Program.cs",
+              "RelativeDocumentMoniker": "Hamada\\Program.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Program.cs",
+              "RelativeToolTip": "Hamada\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:36:14.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iusers.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\Implemntion\\Iusers.cs",
+              "RelativeDocumentMoniker": "Hamada\\Repos\\Implemntion\\Iusers.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\Implemntion\\Iusers.cs",
+              "RelativeToolTip": "Hamada\\Repos\\Implemntion\\Iusers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:07:06.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Users\\create.cshtml",
+              "RelativeDocumentMoniker": "Hamada\\Views\\Users\\create.cshtml",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Views\\Users\\create.cshtml",
+              "RelativeToolTip": "Hamada\\Views\\Users\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:22:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Catgo.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\IRepo\\Catgo.cs",
+              "RelativeDocumentMoniker": "Hamada\\Repos\\IRepo\\Catgo.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\IRepo\\Catgo.cs",
+              "RelativeToolTip": "Hamada\\Repos\\IRepo\\Catgo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:56:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Hamada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Hamada\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:49:10.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHabit.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\Implemntion\\IHabit.cs",
+              "RelativeDocumentMoniker": "Hamada\\Repos\\Implemntion\\IHabit.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\Implemntion\\IHabit.cs",
+              "RelativeToolTip": "Hamada\\Repos\\Implemntion\\IHabit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:24:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\IRepo\\users.cs",
+              "RelativeDocumentMoniker": "Hamada\\Repos\\IRepo\\users.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\IRepo\\users.cs",
+              "RelativeToolTip": "Hamada\\Repos\\IRepo\\users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:52:40.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Hamada\\Models\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\Entity\\User.cs",
+              "RelativeToolTip": "Hamada\\Models\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:20:03.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HabitViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\ViewModels\\HabitViewModel.cs",
+              "RelativeDocumentMoniker": "Hamada\\Models\\ViewModels\\HabitViewModel.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\ViewModels\\HabitViewModel.cs",
+              "RelativeToolTip": "Hamada\\Models\\ViewModels\\HabitViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:39:01.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Catgories.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\Entity\\Catgories.cs",
+              "RelativeDocumentMoniker": "Hamada\\Models\\Entity\\Catgories.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\Entity\\Catgories.cs",
+              "RelativeToolTip": "Hamada\\Models\\Entity\\Catgories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:21:01.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\IRepo\\Habit.cs",
+              "RelativeDocumentMoniker": "Hamada\\Repos\\IRepo\\Habit.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Repos\\IRepo\\Habit.cs",
+              "RelativeToolTip": "Hamada\\Repos\\IRepo\\Habit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:13:02.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\appsettings.json",
+              "RelativeDocumentMoniker": "Hamada\\appsettings.json",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\appsettings.json",
+              "RelativeToolTip": "Hamada\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T10:33:36.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\appContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Hamada\\Models\\appContext\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\appContext\\AppDBContext.cs",
+              "RelativeToolTip": "Hamada\\Models\\appContext\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:21:47.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Habits.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\Entity\\Habits.cs",
+              "RelativeDocumentMoniker": "Hamada\\Models\\Entity\\Habits.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Models\\Entity\\Habits.cs",
+              "RelativeToolTip": "Hamada\\Models\\Entity\\Habits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:21:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hamada.csproj",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Hamada.csproj",
+              "RelativeDocumentMoniker": "Hamada\\Hamada.csproj",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Hamada.csproj",
+              "RelativeToolTip": "Hamada\\Hamada.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:21:51.359Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241224110415_saif.cs",
+              "DocumentMoniker": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Migrations\\20241224110415_saif.cs",
+              "RelativeDocumentMoniker": "Hamada\\Migrations\\20241224110415_saif.cs",
+              "ToolTip": "C:\\Users\\guest.admission\\Desktop\\Hamada\\Hamada\\Migrations\\20241224110415_saif.cs",
+              "RelativeToolTip": "Hamada\\Migrations\\20241224110415_saif.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:04:15.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
